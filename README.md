@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kgoudy
+- 👋 Hi, I’m Koki
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS, JS, JAVA, SQL
+- 🌱 I having a working knowledge of HTML, CSS, JS, JAVA, SQL
 - 💞️ I’m looking to collaborate on projects to gain knowledge and exerience
 - 📫 How to reach me - kgoudy64@gmail.com
 
